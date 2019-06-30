@@ -6,5 +6,7 @@ Releases are found on the blog.
 
 ### Websites
 Main Website: https://robloxacademy.tk
+<p>&nbsp;</p>
 Blog: https://blog.robloxacademy.tk
-Docs (This Website): https://docs.robloxacademy.tk
+<p>&nbsp;</p>
+Docs: https://docs.robloxacademy.tk
