@@ -1,4 +1,4 @@
-# Roblox Academy Docs
+# Welcome to Roblox Academy Docs
 
 Welcome to the Roblox Academy Docs! You can view info / docs from all of our games!
 Scripts can be found on GitHub at https://github.com/roblox-academy
