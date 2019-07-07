@@ -10,3 +10,5 @@ Main Website: https://robloxacademy.tk
 Blog: https://blog.robloxacademy.tk
 <p>&nbsp;</p>
 Docs: https://docs.robloxacademy.tk
+<p>&nbsp;</p>
+Forms: https://robloxacademy.tk/forms
